@@ -78,7 +78,7 @@ public class push_pop {
         }
     }
     
-        // other necassary classes
+        // other necassary functions
     public static void push()
         {   
             if (k  >= index - 1)
