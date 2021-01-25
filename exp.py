@@ -1,1 +1,1 @@
-from trapezoidal import trap
+print("first program")
