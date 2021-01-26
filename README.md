@@ -1,2 +1,3 @@
 # first_project_in
-this is just learning purpase
+this is just learning purpase of git
+
